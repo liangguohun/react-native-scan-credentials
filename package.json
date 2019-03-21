@@ -1,0 +1,18 @@
+
+{
+  "name": "-react-native-scan-credentials",
+  "version": "1.0.0",
+  "description": "证件等识别id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "liangguohun",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.52.0"
+  }
+}
